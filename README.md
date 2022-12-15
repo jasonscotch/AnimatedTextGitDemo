@@ -1,2 +1,2 @@
 # AnimatedTextGitDemo
-This is a sad demo repo to demonstrate Git/Github Workflow. 
+This is a sad little demo repo to demonstrate Git/Github Workflow. 
